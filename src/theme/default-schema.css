@@ -1,0 +1,21 @@
+:root {
+    --background-color: #e9eaea;
+    --text-color: #141412;
+
+    --button-bg-accept-color: #FECD45;
+    --error-color: #ee505a;
+    --success-color: #19b28d;
+
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: light dark;
+    background-color: var(--background-color);
+    color: var(--text-color);
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
